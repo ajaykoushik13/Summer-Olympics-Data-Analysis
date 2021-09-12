@@ -15,7 +15,7 @@ Analysed data in this project are:
 * Which sport is having most female Gold Medalists?
 
 # Who am I?
-I am AJAY KOUSHIK K N, I am pursuing Bachelor of Engineering in Electronics and Communications Engineering from Bannari Amman Institute of Technology Tamil Nadu.
+I am AJAY KOUSHIK K N, I am pursuing Bachelor of Engineering in Electronics and Communications Engineering from Bannari Amman Institute of Technology, Tamil Nadu.
 
 
 # Contact Info
